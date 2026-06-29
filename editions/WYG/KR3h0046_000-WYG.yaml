@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0046/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部八
+  hash: sha256:ed7b890dbd4c5a48db16c46d7fbf2f236332a20a938d6348e5c3606dd689b6ba
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0046_WYG_000-1a, image: WYG0816/WYG0816-0001a.png}
+body:
+  text: 墨池璅録藝術類一書畫之屬提要臣等謹案墨池璅録四卷明楊慎撰王世貞名賢遺墨跋曰慎以博學名世書亦自負吳興堂廡世𫝊其謫戍雲南時嘗醉傅胡粉作雙髻插花諸伎擁之游行成市或以精白綾作裓遺諸伎服之酒間乞書醉墨淋漓人每購歸裝潢成卷蓋慎亦究心書學者此書頗抑顔真卿而謂米芾行不逮言至趙孟頫出始一洗顔栁之病直以晉人為師右軍之後一人而已與王世貞吳興堂廡之説合知其確出慎手中間或採舊文或抒己意往往皆心得之言其述張天錫草書韻㑹源流及小王破體書漢司𨽻楊厥碑􅂒字之類亦兼有考證云乾隆四十三年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:fc69bfaa043b752523a78d144e92c9b2a886cdb137d53903b6325fb2b0c2dd35
+metadata:
+  title: 墨池璅錄
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:15:15.012719'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3h0046/KR3h0046_000.txt
+hash: sha256:43d4347d90df7ae1742c794ae3a201dbf6567b71f077b8cdefa15dae7d8cd5f8
